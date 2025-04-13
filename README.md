@@ -1,5 +1,6 @@
 # Walmart-SQL-Data-Analysis
 This project focuses on performing exploratory and descriptive data analysis using SQL on Walmart sales data. The goal is to extract meaningful insights from transactional data related to sales, customers, branches, and product lines.
+<hr>
 
 🧾 About the Project
 The project leverages SQL queries to explore and analyze sales performance across various dimensions, including:
@@ -16,6 +17,7 @@ The project leverages SQL queries to explore and analyze sales performance acros
 
 All analysis is performed using SQL scripts on a structured database created from the provided .sql file.
 
+<hr>
 📁 Project Structure
 graphql
 Copiar
@@ -25,6 +27,7 @@ WalmartSalesSQL/
 ├── walmart_sales.sql       # Main SQL file with DDL + queries
 ├── README.md               # Project description
 └── sample_output/          # Optional: Screenshots or exported query results
+<hr>
 🛠️ Tools Used
 MySQL
 
@@ -43,5 +46,6 @@ SQL Workbench
 
 💳 Payment Method Preferences
 
+<hr>
 📬 Contact
 Made by Pedro Santos
